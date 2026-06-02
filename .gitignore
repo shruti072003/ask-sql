@@ -1,0 +1,16 @@
+.env
+*.db
+chroma_store/
+venv/
+frontend/dist/
+__pycache__/
+*.pyc
+node_modules/
+*.egg-info/
+.DS_Store
+*.log
+dist/
+build/
+.vite/
+readme2.md
+infra/
